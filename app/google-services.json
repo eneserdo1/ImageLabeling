@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293253826787",
+    "project_id": "detectobject-43a5c",
+    "storage_bucket": "detectobject-43a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293253826787:android:891bea4efcd5aec2991dd6",
+        "android_client_info": {
+          "package_name": "com.app.detectobject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293253826787-bhsurh8ml30h1gtgfd9e4fqcukalch7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQM95bzD7GMC2cyKl9Jp7H5E3FAy1HaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293253826787-bhsurh8ml30h1gtgfd9e4fqcukalch7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
